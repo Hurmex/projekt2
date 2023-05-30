@@ -1,2 +1,3 @@
 # projekt2
-[Click for free tumor](hurmex.github.io/projekt2/index.html)
+[Click here for free tumor](https://hurmex.github.io/projekt2/index.html)
+
